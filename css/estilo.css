@@ -1,0 +1,24 @@
+h1 {
+  border-style: groove;
+  background-color: #cccccc;
+  text-decoration: underline;
+}
+body {
+  background-color: #66cccc;
+  color: black;
+}
+form {
+  border-style: none;
+}
+h5 {
+  background-color: #66cccc;
+}
+.cabezera {
+  background-color: #57dada;
+}
+a {
+  padding: 5px;
+  background-color:#0693ba;
+  border-radius: 15px;
+  text-decoration: 
+}
